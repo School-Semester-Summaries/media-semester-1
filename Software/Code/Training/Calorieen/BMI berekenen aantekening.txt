@@ -1,0 +1,12 @@
+vrouw 
+actief 2000
+niet actief 1800
+50+ -200
+Zwanger leeftijd<30 2600
+Zwanger leeftijd>30 2500
+
+man 
+actief 2500
+niet actief 2250
+leeftijd > 50 -200
+leeftijd < 12 -180

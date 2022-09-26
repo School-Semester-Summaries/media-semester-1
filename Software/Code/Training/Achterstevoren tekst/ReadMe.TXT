@@ -1,0 +1,1 @@
+Dit is de vierkanten oppervlakte opdracht, de achterstevooren tekst lukte niet.

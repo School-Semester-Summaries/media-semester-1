@@ -1,0 +1,90 @@
+BEGIN
+kun je 3 op een rij maken? -> win
+|
+| no
+v 
+kun je 3 op een rij voorkomen? -> voorkom 3 op een rij
+| 
+| no
+v
+kies willekeurige hoek
+|
+v
+herhaal
+
+_________________________________________________________
+
+BEGIN NIET
+begint tegenstander midden? -> ga naar MIDDEN
+|
+| no
+v
+begint tegenstander hoek -> ga naar HOEK
+|
+| no
+v
+begint tegenstander zijkant -> ga naar ZIJKANT
+
+--------------------------------------------------------
+
+MIDDEN
+kun je 3 op een rij maken? -> win
+|
+| no
+v 
+kun je 3 op een rij voorkomen? -> voorkom 3 op een rij
+| 
+| no
+v
+kun je een willekeurige hoek kiezen -> Einde beurt
+|
+| no
+v
+Random
+|
+v
+herhaal
+
+--------------------------------------------------------
+
+HOEK
+kun je 3 op een rij maken? -> win
+|
+| no
+v 
+kun je 3 op een rij voorkomen? -> voorkom 3 op een rij
+| 
+| no
+v
+kan je in het midden plaatsen -> doe het
+|
+| no
+v
+kan je tegen de tegenstander aan plaatsen -> doen
+|
+| no
+v
+Random
+|
+v
+herhaal
+
+--------------------------------------------------------
+
+Zijkant
+kun je 3 op een rij maken? -> win
+|
+| no
+v 
+kun je 3 op een rij voorkomen? -> voorkom 3 op een rij
+| 
+| no
+v
+kun je een hoek kiezen? -> ja
+|
+| no
+v
+Random
+|
+v
+herhaal

@@ -1,0 +1,43 @@
+14-9-2020
+ik heb tot aan de pauze gewerkt aan boter kaas en eieren flowchart.
+na de pauze heb ik een basic C# tutorial gevolgd.
+ik heb ook nog een beetje geexperimenteerd in forms.
+
+21-9-2020
+Furkan uit klas 12 heeft mij geholpen het forms te bergijpen.
+ik heb nu de rekenmachine afgemaakt.
+ik heb ook de koers gemaakt van euro naar lira,
+het enige probleem aan dat programma is dat je geen komma getallen kunt invoeren.
+
+Ik loop tegen een probleem aan dat naarmate de tijd steeds groter wordt.
+het opslaan van de bestanden vind ik nogal verwarrend. 
+er staan een heleboel bestanden met namen van andere bestanden.
+ik ga dit nog proberen op te schonen.
+
+ik heb een paar namen veranderd maar wat ik ook opstart.
+Er staat steeds attach als ik een programma wil runnen.
+
+Ik heb ook een Hoger/Lager programma geschreven in .NET.
+ik heb ook nog de BMI berekenaar gemaakt.
+
+28-9-2020
+ik heb deze dag de tafelvanN gemaakt. vast wel meer maar kan het niet herinneren.
+
+5-10-2020
+ik heb vandaag een heel leuk steen papier schaar pogramma gemaakt.
+Ook heb ik geoefend met methods.
+
+12-10-2020
+vandaag heb ik een programma met enums gemaakt.
+in dat programma kun je je eigen elemental weapon creëren.
+verder heb ik heel de dag gewerkt aan mijn orientatieverslag.
+ik heb alles van de basis af waarin ik van alles laat zien wat ik heb gebruikt
+en hoe ik het heb gebruikt. ook heb ik de introductie af
+
+22-10-2020
+ik heb heel de wedstrijdopdracht gemaakt. ben er echt heel trots op.
+heb er methods in verwerkt en een enum. en nog een hoop andere dingen.
+echt super cool duurde denk ik zo een 6 uur ongeveer. 
+
+ergens in deze week heb ik ook een hoop gewerkt aan het orientatie verslag.
+welke dag het precies is staat in het verslag.
