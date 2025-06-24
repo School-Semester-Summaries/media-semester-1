@@ -44,8 +44,7 @@ Work in progress...
 Work in progress...
 
 ## TimeCube
-The document we delivered as a group can be read when clicked on the link below
-[Click here to go to the TimeCube Document](https://github.com/School-Semester-Summaries/media-semester-1/blob/master/Group%20Projects/TimeCube.pdf)
+The document we delivered as a group can be read when clicked on this link -> [Click here to go to the TimeCube Document](https://github.com/School-Semester-Summaries/media-semester-1/blob/master/Group%20Projects/TimeCube.pdf)
 
 ## Pixoul
 Work in progress...
