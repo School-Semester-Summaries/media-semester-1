@@ -41,10 +41,11 @@ Work in progress...
 [Click here to go to the Business section](https://github.com/CrossyChainsaw/School-Semester-Summaries/tree/master/Semester%201%20-%20Media/Business)
 
 # Group Projects
-Work in progress...
+The group projects, also referred to as "Proftaken", were projects wherein you had to combine all the 5 subjects taught in the first 20 weeks. The projects we made as a group are TimeCube and Pixoul.
 
 ## TimeCube
-The document we delivered as a group can be read when clicked on this link -> [Click here to go to the TimeCube Document](https://github.com/School-Semester-Summaries/media-semester-1/blob/master/Group%20Projects/TimeCube.pdf)
+TimeCube is a cube which tracks how you spend your time across the day. Nowadays there are many projects which do the exact same thing. The document we delivered as a group can be read when clicked on this link -> [Click here to go to the TimeCube Document](https://github.com/School-Semester-Summaries/media-semester-1/blob/master/Group%20Projects/TimeCube.pdf)
 
 ## Pixoul
+Pixoul is a medieval pixel art game we built as a group. We couldn't work a lot on it so there isn't too much functionality in the game but it can be donwloaded and played. Here are the files ->
 [Click here to go to the Pixoul section](https://github.com/School-Semester-Summaries/media-semester-1/tree/master/Group%20Projects/Pixoul)
