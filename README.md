@@ -1,7 +1,5 @@
-### ***Work in progress...***
-
 # Semester 1 - Media
-(put some cool image here that sums up this semester)
+(put some cool image here that sums up this semester - Media Game, Arduino TinkerCAD, infra blur, TravelTV, TimeCube, Pixoul)
 
 ## Table of contents
  - [Preface](#preface)
@@ -26,7 +24,7 @@ A full schoolyear exists of 2 semesters. This means this was my first half year 
 This semester we had to follow 5 subjects. You follow all 5 subjects for 20 weeks. After the 20 weeks you put a focus on a single subject. This semester I decided to put a focus on the subject *Media*. This means that in the section *Group Projects* you will see more work related to the subject *Media*. Quick sidenote, I'm writing this 1,5 years after I actually finished the semester. Therefore smaller projects and/or exercises might be missing. Another even quicker sidenote, Per subject I have the original reports (in Dutch) that I also delivered to my teachers. The README's are bascially the original reports translated to English without irrelevant information.
 
 ## Media
-Made a pretty cool serious game in Dreams (PS4), here is the video
+Made a pretty cool serious game in Dreams (PS4)
 - [Dreams Page](https://indreams.me/dream/mCnkvZcVEDi)
 - [Gameplay Video](https://youtu.be/wH20_BVoavY)
 
