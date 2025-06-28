@@ -1,5 +1,6 @@
 # Semester 1 - Media
-(put some cool image here that sums up this semester - Media Game, Arduino TinkerCAD, infra blur, TravelTV, TimeCube, Pixoul)
+
+![New Project (1)](https://github.com/user-attachments/assets/8b3f44f8-6aff-41fd-8ce3-d07db6d698cb)
 
 ## Table of contents
  - [Preface](#preface)
