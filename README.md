@@ -32,7 +32,7 @@ This semester we had to follow 5 subjects. You follow all 5 subjects for 20 week
 Writing small applications
 
 ## Technology
-Playing around with Arduinos
+This subject was mainly playing around with arduinos in C++
 
 ## Infrastructure
 This subject was one big blur of networking, workstations, servers and maybe more? I don't know very vague. (writing this 4 years later)
