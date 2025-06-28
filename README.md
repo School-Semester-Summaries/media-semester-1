@@ -29,13 +29,13 @@ This semester we had to follow 5 subjects. You follow all 5 subjects for 20 week
 [Click here to go to the Media section](https://github.com/CrossyChainsaw/School-Semester-Summaries/tree/master/Semester%201%20-%20Media/Media)
 
 ## Software
-Work in progress...
+Writing small applications
 
 ## Technology
-Work in progress...
+Playing around with Arduinos
 
 ## Infrastructure
-Work in progress...
+This subject was one big blur of networking, workstations, servers and maybe more? I don't know very vague. (writing this 4 years later)
 
 ## Business
 [Click here to go to the Business section](https://github.com/CrossyChainsaw/School-Semester-Summaries/tree/master/Semester%201%20-%20Media/Business)
