@@ -38,7 +38,7 @@ This subject was mainly playing around with arduinos in C++
 This subject was one big blur of networking, workstations, servers and maybe more? I don't know very vague. (writing this 4 years later)
 
 ## Business
-[Click here to go to the Business section](https://github.com/CrossyChainsaw/School-Semester-Summaries/tree/master/Semester%201%20-%20Media/Business)
+[Click here to go to the Business section](https://github.com/School-Semester-Summaries/media-semester-1/tree/master/Business)
 
 # Group Projects
 The group projects, also referred to as "Proftaken", were projects wherein you had to combine all the 5 subjects taught in the first 20 weeks. The projects we made as a group are TimeCube and Pixoul.
